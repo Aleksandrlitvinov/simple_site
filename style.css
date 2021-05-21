@@ -1,0 +1,20 @@
+.header{
+    text-align: center;
+    background: #A5292A;
+    color: #fff;
+}
+.container-img{
+    width: 100%;
+}
+.cars-images{
+    text-align: center;
+}
+.information{
+    font-size: 18px;
+}
+.footer{
+    text-align: center;
+    background: #000000;
+    color: #fff;
+    font-size: 20px;
+}
